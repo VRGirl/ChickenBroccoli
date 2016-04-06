@@ -3,7 +3,7 @@ Chicken and Broccoli for your face!
 
 
 # Deployed here
-[Chicken and Broccoli](chicken-broccoli.herokuapp.com)
+[Chicken and Broccoli](http://chicken-broccoli.herokuapp.com/)
 
 
 # Build Status
