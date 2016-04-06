@@ -1,7 +1,12 @@
-body {
-    background: #fff;
-}
 .header {
     background: darkgreen;
-    font: #fff;
+    color: #fff;
+    font-family: 'Playfair Display', serif; 
+}
+.nav {
+    text-decoration: none;
+    list-style-type: none:
+}
+.nav li {
+    display: inline;
 }
