@@ -1,12 +1,18 @@
-.header {
-    background: darkgreen;
-    color: #fff;
+header {
+    background: linear-gradient(to bottom,#0a470b, #9aca39);
+    color: #ddd;
     font-family: 'Playfair Display', serif; 
+    text-align: center;
 }
-.nav {
+nav {
     text-decoration: none;
     list-style-type: none:
 }
-.nav li {
+nav li {
     display: inline;
+    padding: 0 50px 0 30px;
+    color: #ccc
+}
+a:hover { 
+    background-color: #AA0;
 }
