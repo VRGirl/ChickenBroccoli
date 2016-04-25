@@ -16,3 +16,13 @@ nav li {
 a:hover { 
     background-color: #AA0;
 }
+.button1 {
+    background-color: beige;
+    border: 2px solid aqua;
+    border-radius: 15px;
+    margin: 0;
+    padding: 10px; 
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+}
