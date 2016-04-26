@@ -16,6 +16,9 @@ nav li {
 nav a:hover { 
     background-color: #AA0;
 }
+a:visited, a:link, a:active, a:hover {
+    text-decoration: none;
+}
 .button1 {
     background-color: beige;
     border: 2px solid aqua;
@@ -27,9 +30,8 @@ nav a:hover {
     display: inline-block;
     transition-duration: 0.7s;
 }
-.button1:hover, a:hover {
+.button1:hover, a:hover{
     background-color: cornflowerblue;
-    text-decoration: none;
 }
 .button2 {
     background-color: white;
@@ -38,7 +40,6 @@ nav a:hover {
     border-radius: 15px;
     margin: 0;
     padding: 10px; 
-    text-decoration: none;
     text-align: center;
     display: inline-block;
     transition-duration: 0.4s;
@@ -46,7 +47,6 @@ nav a:hover {
 .button2:hover, a:hover{
     background-color: #0a470b;
     color: white;
-    text-decoration: none;
 }
 .button3 {
     margin: 10px; 
